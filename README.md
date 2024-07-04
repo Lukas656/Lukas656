@@ -2,7 +2,7 @@
 
 <div style="display: line_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukas656&theme=transparent&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas656&layout=compact&langs_count16&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas656&layout=compact&theme=transparent"/>
 </div>
 <div style="display: line_block"><br>
 <img align="center" alt="React-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
@@ -31,9 +31,9 @@
 
 ![mario](https://github.com/Lukas656/Lukas656/assets/72577273/ab8fe38a-6d4c-41f6-9733-9de29188bc8b)
 
-<br>
-<div style="display: flex" width="100%" aling="center">
-<img src="https://th.bing.com/th/id/OIG4.LXd7eNU_6tUSZxuGNiQL?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="avatar" width="25%"/>
-<img src="https://th.bing.com/th/id/OIG2.bBXWmeqZp3EXA36_SYoo?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="avatar" width="25%" />
+<div style="display: flex; justify-content: space-around; width: 100%; align-items: center;">
+  <img height="180em" src="https://th.bing.com/th/id/OIG4.LXd7eNU_6tUSZxuGNiQL?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="avatar" >
+  <img height="180em" src="https://th.bing.com/th/id/OIG2.bBXWmeqZp3EXA36_SYoo?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="avatar">
+</div>
 
-</div
+
