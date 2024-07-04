@@ -30,10 +30,3 @@
 </div>
 
 ![mario](https://github.com/Lukas656/Lukas656/assets/72577273/ab8fe38a-6d4c-41f6-9733-9de29188bc8b)
-
-<div style="display: flex; justify-content: space-around; width: 100%; align-items: center;">
-  <img height="180em" src="https://th.bing.com/th/id/OIG4.LXd7eNU_6tUSZxuGNiQL?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="avatar" >
-  <img height="180em" src="https://th.bing.com/th/id/OIG2.bBXWmeqZp3EXA36_SYoo?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="avatar">
-</div>
-
-
