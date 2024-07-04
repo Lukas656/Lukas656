@@ -29,7 +29,7 @@
 </a>
 </div>
 
-
+![snake gif](https://github.com/Lukas656/Lukas656/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <div style="display: flex" width="100%" aling="center">
