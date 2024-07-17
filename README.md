@@ -1,9 +1,5 @@
 ## Falaaa DEV! Bem Vindo ao meu Pequeno mundo 👨🏿‍💻🌍
 
-<div style="display: line_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukas656&theme=transparent&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas656&layout=compact&theme=transparent"/>
-</div>
 <div style="display: line_block"><br>
 <img align="center" alt="React-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="center" alt="next-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />    
