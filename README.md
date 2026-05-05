@@ -73,9 +73,10 @@ const lucas = {
 
 ---
 
-<p align="center">
- ![mario](https://github.com/Lukas656/Lukas656/assets/72577273/ab8fe38a-6d4c-41f6-9733-9de29188bc8b)
-</p>
+
+<div align="center">
+  <img width="100%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72577273/345913449-ab8fe38a-6d4c-41f6-9733-9de29188bc8b.gif"/>
+</div>
 
 <p align="center">
   <i>"Código limpo, propósito claro e café forte." ☕🔥</i>
