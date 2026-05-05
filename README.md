@@ -58,27 +58,9 @@ const lucas = {
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukas656&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas656&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🌐 Social
 
 <p align="center">
-
-<a href="SEU_SITE">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/link-lucas-santos/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -92,7 +74,7 @@ const lucas = {
 ---
 
 <p align="center">
-  <img src="SEU_GIF_PIXEL_ART"/>
+ ![mario](https://github.com/Lukas656/Lukas656/assets/72577273/ab8fe38a-6d4c-41f6-9733-9de29188bc8b)
 </p>
 
 <p align="center">
