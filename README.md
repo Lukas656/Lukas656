@@ -1,6 +1,6 @@
 ## Falaaa DEV! Bem Vindo ao meu Pequeno mundo 👨🏿‍💻🌍
 
-<div style="display: line_block"><br>
+<div style="display: line_block">
 <img align="center" alt="React-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="center" alt="next-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />    
 <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
