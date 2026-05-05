@@ -73,11 +73,10 @@ const lucas = {
 
 ---
 
-
-<div align="center">
-  <img width="100%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72577273/345913449-ab8fe38a-6d4c-41f6-9733-9de29188bc8b.gif"/>
-</div>
-
 <p align="center">
   <i>"Código limpo, propósito claro e café forte." ☕🔥</i>
 </p>
+
+<div align="center">
+  <img width="100%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72577273/345913449-ab8fe38a-6d4c-41f6-9733-9de29188bc8b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260505%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260505T005528Z&X-Amz-Expires=300&X-Amz-Signature=97abfc5eb231ca6805202da342d4d0477730df3f006e7c8a69c21a2cc9091640&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif"/>
+</div>
