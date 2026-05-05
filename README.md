@@ -1,29 +1,100 @@
-## Falaaa DEV! Bem Vindo ao meu Pequeno mundo 👨🏿‍💻🌍
+<h1 align="center">
+  Eae DEV 👋 Eu sou Lucas Santos
+</h1>
 
-<div style="display: line_block">
-<img align="center" alt="React-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img align="center" alt="next-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />    
-<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
-<img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
-<img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img align="center" alt="mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />          
-<img align="center" alt="node-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+<h3 align="center">
+  Front-End Developer • React • Next.js • UI Lover 🚀
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+pequeno+mundo+🌍;Transformando+ideias+em+interfaces+⚡;React+%2B+Next.js+Addicted+☕" />
+</p>
+
+---
+
+## 👨🏿‍💻 Sobre mim
+
+```ts
+const lucas = {
+  name: "Lucas Santos",
+  role: "Front-End Developer",
+  stack: ["React", "Next.js", "TypeScript"],
+  learning: ["Arquitetura", "Node", "Produtos SaaS"],
+  currentMission: "Construindo soluções reais para pequenos negócios 🚀",
+};
+```
+
+---
+
+## 🚀 Tech Stack
+
+### Front-End
+<p>
+  <img align="center" alt="React-js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+  <img align="center" alt="next-js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+
+  <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Tailwind" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+</p>
+
+### Back-End & Database
+<p>
+  <img align="center" alt="Node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+  <img align="center" alt="Mongo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</p>
+
+### Tools
+<p>
+  <img align="center" alt="TS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+  <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukas656&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas656&layout=compact&theme=tokyonight"/>
+
 </div>
-<br>
 
-## Social👨🏿‍💻
-<div style="display: line_block">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/link-lucas-santos/" target="_blank">
+---
+
+## 🌐 Social
+
+<p align="center">
+
+<a href="SEU_SITE">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/link-lucas-santos/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/lucas.santos.2002?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+
+<a href="https://www.instagram.com/lucas.santos.2002">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</div>
 
-![mario](https://github.com/Lukas656/Lukas656/assets/72577273/ab8fe38a-6d4c-41f6-9733-9de29188bc8b)
+</p>
+
+---
+
+<p align="center">
+  <img src="SEU_GIF_PIXEL_ART"/>
+</p>
+
+<p align="center">
+  <i>"Código limpo, propósito claro e café forte." ☕🔥</i>
+</p>
