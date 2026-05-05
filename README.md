@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+pequeno+mundo+🌍;Transformando+ideias+em+interfaces+⚡;React+%2B+Next.js+Addicted+☕" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+pequeno+mundo+🌍;Transformando+ideias+em+interfaces;React+%2B+Next.js+Addicted+☕" />
 </p>
 
 ---
