@@ -56,7 +56,7 @@ const lucas = {
 
 🎓 Formação
 
-Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul · 2020–2024
+Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul · 2024–2026
 
 📊 GitHub
 
